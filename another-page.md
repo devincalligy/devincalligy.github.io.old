@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Here is going to be a page where I put other information. 
 
-_yay_
+_I'm not kidding, I will put more stuff here._
 
 [back](./)
