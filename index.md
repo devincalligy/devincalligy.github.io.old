@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+My name is Devin James Calligy. I am pretty **okay** at things. I made this because I was _bored_, I am ~~not good~~ at sports.
 
 [Link to another page](./another-page.html).
 
