@@ -2,7 +2,7 @@
 layout: default
 ---
 
-My name is Devin James Calligy. I am pretty **okay** at things. I made this because I was _bored_, I am ~~not good~~ at sports.
+My name is Devin Calligy. I am pretty **average** at things. I made this because if ya aint on the internets _you don't exist_. I am ~~good~~ at sports, but I can't dunk a basketball.
 
 [Link to another page](./another-page.html).
 
