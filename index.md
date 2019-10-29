@@ -2,4 +2,5 @@
 layout: default
 ---
 
-# About me(./about_me.html)
+# Hey, you can read more about me by clicking the link below.
+[Read more.](./about_me.html)
