@@ -2,8 +2,5 @@
 layout: default
 ---
 
-## Here is going to be a page where I put other information. 
-
-_I'm not kidding, I will put more stuff here._
-
+## Hi, my name is Devin. I put this together as a little project to keep myself entertained while in-between jobs. I'll probably write a little more about myself when I have the time. 
 [back](./)
